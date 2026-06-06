@@ -6,7 +6,7 @@ Concepts Used
 - conditional statements
 - user input
 - string methods
-- basic validation.
+- basic validation
 
 How It Works
 The program checks that:
